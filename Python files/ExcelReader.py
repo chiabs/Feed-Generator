@@ -2,6 +2,7 @@ import xlsxwriter
 from Writer import Writer
 import os
 import pandas as pd
+import openpyxl
 
 
 class Reader():
@@ -77,15 +78,10 @@ class Reader():
 
             return generator_log
 
-        except:
+        except Exception as e:
             return ["Please ensure that feed.xlsx is closed before trying again."]
 
         
-
-
-
-    def delete(credentials):
-        pass
 
 
         
