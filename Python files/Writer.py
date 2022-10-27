@@ -69,7 +69,7 @@ class Writer:
             return "Max/Min amounts cannot be negative"
         else:
             #Obtain path
-            direct = os.path.dirname(__file__)
+            direct = os.getcwd()
             direct = direct + "\\Generated_Files\\"
 
             #Check if directory exists else create folder

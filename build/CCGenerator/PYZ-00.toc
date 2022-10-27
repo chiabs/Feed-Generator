@@ -1,5 +1,5 @@
-('C:\\Users\\Jia Le\\Desktop\\Auto CC '
- 'Generator\\Final\\build\\CCGenerator\\PYZ-00.pyz',
+('C:\\Users\\Jia Le\\Desktop\\Auto CC Generator\\Final\\Python '
+ 'files\\build\\CCGenerator\\PYZ-00.pyz',
  [('tempfile',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tempfile.py',
@@ -732,6 +732,10 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\multiprocessing\\__init__.py',
    'PYMODULE'),
+  ('tracemalloc',
+   'C:\\Program '
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tracemalloc.py',
+   'PYMODULE'),
   ('getpass',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\getpass.py',
@@ -752,33 +756,32 @@
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\http\\cookiejar.py',
    'PYMODULE'),
-  ('tracemalloc',
+  ('stringprep',
    'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\tracemalloc.py',
+   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\stringprep.py',
    'PYMODULE'),
   ('_py_abc',
    'C:\\Program '
    'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\_py_abc.py',
    'PYMODULE'),
-  ('stringprep',
-   'C:\\Program '
-   'Files\\WindowsApps\\PythonSoftwareFoundation.Python.3.8_3.8.2800.0_x64__qbz5n2kfra8p0\\lib\\stringprep.py',
-   'PYMODULE'),
   ('Controller',
-   'C:\\Users\\Jia Le\\Desktop\\Auto CC Generator\\Final\\Controller.py',
+   'C:\\Users\\Jia Le\\Desktop\\Auto CC Generator\\Final\\Python '
+   'files\\Controller.py',
    'PYMODULE'),
   ('PyQt5',
    'C:\\Users\\Jia '
    'Le\\AppData\\Local\\Packages\\PythonSoftwareFoundation.Python.3.8_qbz5n2kfra8p0\\LocalCache\\local-packages\\Python38\\site-packages\\PyQt5\\__init__.py',
    'PYMODULE'),
   ('GUI',
-   'C:\\Users\\Jia Le\\Desktop\\Auto CC Generator\\Final\\GUI.py',
+   'C:\\Users\\Jia Le\\Desktop\\Auto CC Generator\\Final\\Python files\\GUI.py',
    'PYMODULE'),
   ('Writer',
-   'C:\\Users\\Jia Le\\Desktop\\Auto CC Generator\\Final\\Writer.py',
+   'C:\\Users\\Jia Le\\Desktop\\Auto CC Generator\\Final\\Python '
+   'files\\Writer.py',
    'PYMODULE'),
   ('ExcelReader',
-   'C:\\Users\\Jia Le\\Desktop\\Auto CC Generator\\Final\\ExcelReader.py',
+   'C:\\Users\\Jia Le\\Desktop\\Auto CC Generator\\Final\\Python '
+   'files\\ExcelReader.py',
    'PYMODULE'),
   ('openpyxl',
    'C:\\Users\\Jia '

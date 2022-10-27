@@ -11,7 +11,7 @@ class Reader():
 
     #Function to check if excel feed exists, if not it will create
     def create_file():
-        direct = os.path.dirname(__file__)
+        direct = os.getcwd()
         direct = direct + "\\Excel_Feed"
         
         if not os.path.exists(direct):
@@ -38,7 +38,7 @@ class Reader():
 
     #Function to read excel file and create feed
     def read_file():
-        path = os.path.dirname(__file__) + '\\Excel_Feed\\feed.xlsx'
+        path = os.getcwd() + '\\Excel_Feed\\feed.xlsx'
         try:    
             df = pd.read_excel(path)
             df =df.fillna('')
